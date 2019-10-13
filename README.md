@@ -5,4 +5,5 @@ Pokemon Go Telegram sticker pack for scanners
 ZeChrales, LucianoNeo, mizu-github and Ken Sugimori
 
 # Disclaimer
-Filesnames in /PogoAssets/ might not have working form-ids for scanner, in that case make a PR with changes or use files in rootfolder instead.
+There might be some forms missing in /PogoAssets/ but it should be 99.9% up to date. Shinies/Shuffle not supported. 
+Make Issue / PR to add or fix stuff please :-)
