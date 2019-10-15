@@ -6,11 +6,13 @@ Pokemon Go Telegram sticker pack for scanners
 **PokeAlarm** (dev-branch only atm)
 
 Use '[sticker_url](https://pa.readthedocs.io/en/master/configuration/alarms/telegram.html#advanced-config)' 
+
 `https://raw.githubusercontent.com/darkelement1987/TeleDark/master/PogoAssets/pokemon_icon_<mon_id_3>_<form_id_2>.webp`
 
 **PoracleJS**
 
 In your .env use:
+
 `TLG_STICKER=https://raw.githubusercontent.com/darkelement1987/TeleDark/master/PogoAssets/`
 
 # Credits 
