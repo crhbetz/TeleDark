@@ -16,7 +16,7 @@ In your .env use:
 `TLG_STICKER=https://raw.githubusercontent.com/darkelement1987/TeleDark/master/PogoAssets/`
 
 # Credits 
-ZeChrales, LucianoNeo, mizu-github, Ken Sugimori, 123FLO321, Furtif
+ZeChrales, LucianoNeo, mizu-github, Ken Sugimori, 123FLO321, Furtif, PoracleJS & PokeAlarm team
 
 # Disclaimer
 There might be some forms missing in /PogoAssets/ but it should be 99.9% up to date.
