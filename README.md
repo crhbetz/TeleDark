@@ -3,7 +3,7 @@ Pokemon Go Telegram sticker pack for PokeAlarm/PoracleJS
 
 # How To Use
 
-**PokeAlarm** (dev-branch only atm)
+**PokeAlarm** (Pokemon/Eggs/Raids only / dev-branch only atm)
 
 Use '[sticker_url](https://pa.readthedocs.io/en/master/configuration/alarms/telegram.html#advanced-config)' 
 
