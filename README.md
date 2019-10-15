@@ -21,3 +21,5 @@ ZeChrales, LucianoNeo, mizu-github, Ken Sugimori, 123FLO321, Furtif
 # Disclaimer
 There might be some forms missing in /PogoAssets/ but it should be 99.9% up to date.
 Make Issue / PR to add or fix stuff please :-)
+
+Only works for Pokemon and Raids/Eggs atm
