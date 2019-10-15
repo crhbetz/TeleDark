@@ -1,5 +1,5 @@
 # TeleDark
-Pokemon Go Telegram sticker pack for scanners
+Pokemon Go Telegram sticker pack for PokeAlarm/PoracleJS
 
 # How To Use
 
