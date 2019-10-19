@@ -24,7 +24,7 @@ Use '[sticker_url](https://pa.readthedocs.io/en/master/configuration/alarms/tele
         "message":"*A wild <mon_name> (#<mon_id_3>) has appeared!*\nIV: <iv>% / CP: <cp> / LVL: <mon_lvl>\nStats: (Att: <atk> / Def: <def> / Sta: <sta>)\n<address_eu> until <24h_time> (<time_left>).",
         "map":true
     }
-
+```
 
 **PoracleJS** (Supports Pokemon / Raids / Eggs / Quests)
 
