@@ -11,6 +11,8 @@ Use '[sticker_url](https://pa.readthedocs.io/en/master/configuration/alarms/tele
 
 `Example alarms.json`
 
+
+```json
   "telegram_halloween":{
     "active":true,
     "type":"telegram",
@@ -21,7 +23,7 @@ Use '[sticker_url](https://pa.readthedocs.io/en/master/configuration/alarms/tele
         "sticker_url":"https://raw.githubusercontent.com/darkelement1987/TeleDark/master/PogoAssets/pokemon_icon_<mon_id_3>_<form_id_2>.webp",
         "message":"*A wild <mon_name> (#<mon_id_3>) has appeared!*\nIV: <iv>% / CP: <cp> / LVL: <mon_lvl>\nStats: (Att: <atk> / Def: <def> / Sta: <sta>)\n<address_eu> until <24h_time> (<time_left>).",
         "map":true
-    }
+    }```
 
 **PoracleJS** (Supports Pokemon / Raids / Eggs / Quests)
 
