@@ -37,6 +37,11 @@ In your .env use:
 
 `TLG_STICKER=https://raw.githubusercontent.com/darkelement1987/TeleDark/master/PogoAssets/`
 
+# FAQ
+**Question:** My sticker is not showing on Telegram, help me now!
+
+**Answer:** This is probably because you are on PokeAlarm master-branch which does not have support for `<form_id_2>`
+
 # Credits 
 ZeChrales, LucianoNeo, mizu-github, Ken Sugimori, 123FLO321, Furtif, PoracleJS & PokeAlarm team
 
