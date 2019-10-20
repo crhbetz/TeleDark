@@ -1,6 +1,11 @@
 # TeleDark
 Pokemon Go Telegram sticker pack for PokeAlarm/PoracleJS
 
+# Discord
+<img src="https://discordapp.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" width="16" height="16" title="500px" alt="500px" /> Discord: https://discord.gg/qu5e3yY
+
+Join our Discord.
+
 # How To Use
 
 **PokeAlarm** (Pokemon/Eggs/Raids only / dev-branch only atm)
