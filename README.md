@@ -8,7 +8,7 @@ Join our Discord.
 
 # How To Use
 
-**PokeAlarm** (Pokemon+forms/Eggs/Raids only / dev-branch only atm)
+**PokeAlarm** (Pokemon + forms/Eggs/Raids only / dev-branch only atm)
 
 Use '[sticker_url](https://pa.readthedocs.io/en/master/configuration/alarms/telegram.html#advanced-config)' 
 
